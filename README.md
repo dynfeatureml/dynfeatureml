@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Dynamic Feature Machine Learning  👋
+#### A direct way to handle dynamic number of features to train your machine learning model
 <!--
 **dynfeatureml/dynfeatureml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
